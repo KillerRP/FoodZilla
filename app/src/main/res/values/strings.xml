@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FoodZilla</string>
+    <string name="foodzilla">FoodZilla</string>
+    <string name="todo">TODO</string>
+    <string name="filter1">Filter1</string>
+    <string name="filter2">Filter2</string>
+    <string name="filter3">Filter3</string>
+    <string name="filter4">Filter4</string>
+    <string name="filter5">Filter5</string>
+    <string name="foodname">FOOD NAME</string>
+    <string name="user_name">User-Name</string>
+    <string name="user_email">User-Email</string>
+    <string name="title_activity_users_settings">UsersSettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
