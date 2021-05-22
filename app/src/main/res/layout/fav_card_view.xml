@@ -35,18 +35,28 @@
                 android:text="@string/foodname"
                 android:textColor="@color/black"
                 android:layout_marginStart="20sp"
+                android:layout_marginTop="10dp"
                 android:textSize="20sp"
                 android:textStyle="bold"
                 tools:ignore="RtlSymmetry"
                 tools:layout_editor_absoluteX="129dp"
                 tools:layout_editor_absoluteY="367dp" />
 
-<!--            INSERT STAR ICON-->
-<!--            <ImageView-->
-<!--                android:id="@+id/imageView5"-->
-<!--                android:layout_width="match_parent"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                app:srcCompat="@drawable/icons8_star_48" />-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_4_5"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_gravity="center_vertical" />
+
+            <!--            INSERT STAR ICON-->
+            <!--            <ImageView-->
+            <!--                android:id="@+id/imageView5"-->
+            <!--                android:layout_width="match_parent"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                app:srcCompat="@drawable/icons8_star_48" />-->
 
         </LinearLayout>
 
